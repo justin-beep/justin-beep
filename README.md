@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justin
 - 👀 I’m interested in Rasberry pi projects and the crypto space
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ And Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
